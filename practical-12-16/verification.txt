@@ -1,0 +1,4 @@
+PASS Four controllable construction machines exist
+PASS Forty sand grains forty stones and twelve bricks have Rigidbody and colliders
+PASS Excavator starts with uncaptured physical grains
+PASS Truck bed has floor side front and tailgate colliders

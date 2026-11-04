@@ -1,0 +1,16 @@
+PASS All ninety-two physical grains persist after settling
+PASS Bucket captures at least twenty overlapping sand grains without spawning new cargo
+PASS Bucket retainer holds only collected Rigidbody objects
+PASS Articulated boom lifts captured grains above truck height
+PASS Turret swings physical bucket above truck bed
+PASS Releasing bucket restores gravity to captured grains
+PASS At least fifteen released sand grains settle inside collider truck bed
+PASS Truck drives with keyboard-equivalent drive command in FixedUpdate
+PASS Physical truck bed retains most cargo during transport
+PASS Bulldozer blade physically pushes stone pile forward
+PASS Crane hook connects nearby dynamic load through FixedJoint
+PASS Crane winch physically lifts joint-connected cargo
+PASS Crane releases cargo back to free dynamic motion
+PASS Released crane load lands on site floor
+PASS Truck tipper rotates to forty-five degrees
+PASS Tilted bed and open tailgate unload physical sand grains
