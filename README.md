@@ -9,6 +9,7 @@
 | [Практическая 4–5](practical-04-05/) | Виртуальный город из бесплатных ассетов и коллайдеры | [report.md](practical-04-05/report.md) | [UnityProject](practical-04-05/UnityProject/) |
 | [Практическая 6–7](practical-06-07/) | Автомобили, пешеходы и поезд с остановкой на станции | [report.md](practical-06-07/report.md) | [UnityProject](practical-06-07/UnityProject/) |
 | [Практическая 8–9](practical-08-09/) | Порталы, интерактивная комната, мебель и свет | [report.md](practical-08-09/report.md) | [UnityProject](practical-08-09/UnityProject/) |
+| [Практическая 10–11](practical-10-11/) | Двери, вентилятор и жалюзи | [report.md](practical-10-11/report.md) | [UnityProject](practical-10-11/UnityProject/) |
 
 ## Структура каждой работы
 
@@ -38,5 +39,6 @@ Unity 6.4, версия **6000.4.6f1**, Built-in Render Pipeline. Добавит
 Меню Practicals → Build scenes and evidence в каждом проекте пересоздаёт только соответствующую сцену, изображения камер и журнал проверок. Скриншоты интерфейса автоматически не переснимаются. Сохранить собственные изменения сцены под другим именем перед повторной генерацией.
 
 Служебные папки Unity, временные файлы и прежний общий комплект не входят в Git. Материалы размещаются в ветке main.
+
 
 

@@ -1,0 +1,12 @@
+PASS Closed cabinet rejects item pickup in Play Mode
+PASS Closed door collider physically occludes shelf item
+PASS Keyboard door action uses camera ray to select door
+PASS FixedUpdate rotates cabinet door to open position
+PASS Opening cabinet permits visible item pickup
+PASS Cabinet door closes back to zero degrees
+PASS Entrance door opens with its physical collider
+PASS Fan force blows lightweight item past table edge
+PASS Both lightweight items fall from table under gravity
+PASS Fan rotor rotates while wind is active
+PASS Blinds lift to fully open in FixedUpdate
+PASS Blinds close again in FixedUpdate

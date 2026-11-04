@@ -1,0 +1,4 @@
+PASS Two cabinet doors and one entrance door have collider bodies
+PASS Four cabinet items are inaccessible behind closed doors
+PASS Cabinet items become eligible after doors open
+PASS Eleven slats lift and rotate when blinds open
