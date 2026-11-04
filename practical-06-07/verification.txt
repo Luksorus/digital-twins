@@ -1,0 +1,15 @@
+PASS Eight cars instantiated from TrafficCar prefab
+PASS Cars have interpolated kinematic Rigidbody
+PASS Eight animated pedestrians exist
+PASS Passenger train prefab created
+PASS Train dwell lasts at least six seconds
+PASS Cars advance along the route
+PASS Pedestrians move on sidewalks
+PASS Following distance stays above five meters
+PASS Vehicle colliders do not overlap in sampled physics checks
+PASS Cars and pedestrian capsules do not overlap in sampled physics checks
+PASS Cars stop before red pedestrian crossing
+PASS Train approaches brakes stops and departs
+PASS Train acceleration stays below two meters per second squared
+PASS Train completes and restarts a full off-screen cycle
+PASS Station events recorded

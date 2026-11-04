@@ -1,0 +1,6 @@
+PASS Play Mode Start instantiates eight cars
+PASS FixedUpdate advances real car positions
+PASS FixedUpdate advances train time
+PASS Pause holds simulation time in Play Mode
+PASS Train really stops at platform in Play Mode
+PASS Train departs after dwell in Play Mode
