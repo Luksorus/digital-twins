@@ -1,0 +1,4 @@
+PASS Two trigger portals link city and room
+PASS Nine portable items on floor tables and shelves
+PASS Tables and chairs use dynamic compound colliders
+PASS Wall switch disables every room light

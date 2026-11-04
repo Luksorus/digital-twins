@@ -1,0 +1,9 @@
+PASS Inherited city spawns eight cars in Play Mode
+PASS CharacterController entering city trigger teleports into room
+PASS Portal cooldown blocks immediate return
+PASS Wall switch toggles actual room lights in Play Mode
+PASS Ray interaction picks up visible small object
+PASS Carried object follows the camera
+PASS Release restores dynamic Rigidbody
+PASS Furniture responds to impulse through dynamic physics
+PASS Room exit trigger returns walker to the city
