@@ -1,0 +1,10 @@
+PASS Twelve imported Kenney buildings placed
+PASS Every building has a BoxCollider
+PASS Buildings are static geometry
+PASS Free FBX asset packs imported
+PASS Four inspection cameras exist
+PASS Imported building meshes have nonzero dimensions
+PASS CharacterController reports wall collision
+PASS Walker cannot pass through building wall
+PASS Walkable sidewalk is initially clear
+PASS Building prefab saved with collider

@@ -8,3 +8,5 @@
 *.mat text eol=lf
 *.png binary
 *.docx binary
+*.fbx binary
+*.prefab text eol=lf
