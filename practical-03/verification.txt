@@ -1,0 +1,9 @@
+PASS Move right 2 units in 1 s
+PASS Move vertical E 2 units
+PASS Move inverse returns to start
+PASS Scale X only
+PASS Scale lower bound
+PASS Scale upper bound
+PASS Rotate X 60 degrees
+PASS Sphere has three scripts
+PASS Move equal at 30 and 120 FPS

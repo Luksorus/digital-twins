@@ -1,0 +1,2 @@
+PASS Lab2 three cameras
+PASS Lab2 cuboid

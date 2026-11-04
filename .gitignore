@@ -1,0 +1,29 @@
+# Previous combined package retained locally
+/UnityPracticals/
+/Results/
+/work/
+# Unity-generated files
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/MemoryCaptures/
+**/Recordings/
+**/.vs/
+**/.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
